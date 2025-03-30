@@ -1,0 +1,1 @@
+# 4man_fashion_config
