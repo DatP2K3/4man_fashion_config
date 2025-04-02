@@ -2,3 +2,6 @@ spring:
   main:
     web-application-type: reactive
     banner-mode: 'off'
+ 
+  config:
+    import: "consul:"
